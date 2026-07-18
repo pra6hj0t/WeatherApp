@@ -42,11 +42,11 @@ Weather data provided by WeatherAPI.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220"/>
-  <img src="screenshots/sunny.png" width="220"/>
+  <img src="Screenshots/home.png" width="220"/>
+  <img src="Screenshots/sunny.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/rainy.png" width="220"/>
-  <img src="screenshots/hourly.png" width="220"/>
+  <img src="Screenshots/rainy.png" width="220"/>
+  <img src="Screenshots/hourly.png" width="220"/>
 </p>
