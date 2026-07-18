@@ -43,10 +43,11 @@ Weather data provided by WeatherAPI.
 
 <p align="center">
   <img src="Screenshots/Screenshot_20260718_131224.png" width="220"/>
-  <img src="Screenshots/sunny.png" width="220"/>
+  <img src="Screenshots/Screenshot_20260718_131338.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/rainy.png" width="220"/>
-  <img src="Screenshots/hourly.png" width="220"/>
+  <img src="Screenshots/Screenshot_20260718_131354.png" width="220"/>
+  <img src="Screenshots/Screenshot_20260718_131414.png" width="220"/>
+  <img src="Screenshots/Screenshot_20260718_131434.png" width="220"/>
 </p>
