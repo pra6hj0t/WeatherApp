@@ -42,7 +42,7 @@ Weather data provided by WeatherAPI.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/home.png" width="220"/>
+  <img src="Screenshots/Screenshot20260718_131224.png" width="220"/>
   <img src="Screenshots/sunny.png" width="220"/>
 </p>
 
